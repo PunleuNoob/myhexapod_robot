@@ -5,7 +5,8 @@
               Saporn Punnara  e20180897
               Seng Seakmeng   e20180945
               Song Satyarak   e20181005
-In order to run this, we need to follow the step in the following:
+
+# In order to run this, we need to follow the step in the following:
   1. create a folder and name it anything you like. (for ros workspace)
   2. in that folder, create a folder called "src". (the name of this folder must be "src")
   3. in "src" folder, create a ros pakage named myhexapod_decription by typing the command in terminal : roscreate-pkg myhexapod_decription urdf
